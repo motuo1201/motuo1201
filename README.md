@@ -1,6 +1,7 @@
 ref: https://note.com/yutabnbn/n/n345f5bd92f01
 
 # Stand Master : Yosuke Enomoto
+## Stand Name : Killer Whale
 ![my_chart](./images/chart.png)
 
 ## 働く時間
@@ -47,6 +48,7 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 おまけ。
 
 見る人が見れば分かると思いますが、「JOJOの奇妙な冒険」シリーズが大好きです。
+スタンド名は私が海洋生物好きなところから来ています。(鴨川シーワールド最高！)
 
 ということで、各パラメータの解説です
 
