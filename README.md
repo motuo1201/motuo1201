@@ -2,6 +2,10 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 
 # Stand Master : Yosuke Enomoto
 ## Stand Name : Lion's Blue
+
+#### Stand Vision
+![stand_vision](./images/stand-vision.png)
+#### Status
 ![my_chart](./images/chart.png)
 
 ## 働く時間
