@@ -1,3 +1,4 @@
+↓こちらの記事を参考に制作した自己紹介です
 ref: https://note.com/yutabnbn/n/n345f5bd92f01
 
 # Stand Master : Yosuke Enomoto
