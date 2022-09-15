@@ -50,6 +50,14 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 - 割と抽象度の高い話をする事が多いので、すれ違っていないか確認しながら話を進められるとGood
 - フィードバックを受けて感情的になることはまずないので、お気づきの点があれば遠慮なく言ってほしい。(でも、キツイ言葉は苦手なので大人のコミュニケーションがとれると嬉しい)
 
+## 自分自身のサイト
+
+- [LAPRAS](https://lapras.com/public/motuo)
+- [twitter](https://twitter.com/motumotuo)
+- [Wantedly](https://www.wantedly.com/id/yosuke_enomoto_d)
+- [note](https://note.com/eno_motty/)
+- [Qiita](https://qiita.com/motuo)
+
 ## 上記レーダーチャートの意味
 おまけ。
 
