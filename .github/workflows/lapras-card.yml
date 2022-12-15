@@ -20,7 +20,6 @@ jobs:
           # BACKGROUND_FIRST: '#020E27'
           # BACKGROUND_SECOND: '#0E5593'
           # LANG: 'ja'
-          SHARE_ID: <YOUR_SHARE_ID>
           ICON_FIRST: "#03102f"
           ICON_SECOND: "#77d0fd"
           BACKGROUND_FIRST: "#020e27"
