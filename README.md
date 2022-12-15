@@ -10,6 +10,9 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 #### Status
 ![my_chart](./images/chart.png)
 
+### Lapras Card
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 ## 働く時間
 
 - 8時 ~ 19時くらい
