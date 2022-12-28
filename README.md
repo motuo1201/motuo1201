@@ -12,8 +12,8 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 
 ### Lapras Card
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/motuo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=3.67&i=3.53&b1=%23020e27&b2=%238abbe5&i1=%2303102f&i2=%2377d0fd&l=ja" width="400" ></a>  
-Last Updated on 12/27/2022, 1:14:33 AM
+<a href="https://lapras.com/public/motuo" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.69&b=3.67&i=3.54&b1=%23020e27&b2=%238abbe5&i1=%2303102f&i2=%2377d0fd&l=ja" width="400" ></a>  
+Last Updated on 12/28/2022, 1:13:49 AM
 <!--END_SECTION:lapras-card-->
 ## 働く時間
 
