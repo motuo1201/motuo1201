@@ -7,14 +7,17 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 
 #### Stand Vision(奥さんが書いてくれた)
 ![stand_vision](./images/stand-vision.png)
-#### Status
-![my_chart](./images/chart.png)
 
 ### Lapras Card
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/motuo" target="_blank" rel="noopener noreferrer"><img alt="motuoのLAPRASでのスコアは次の通りです: エンジニアリング: 3.61 / 5.0, ビジネス: 3.83 / 5.0, インフルエンス: 3.59 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.61&b=3.83&i=3.59&b1=%23020e27&b2=%238abbe5&i1=%2303102f&i2=%2377d0fd&l=ja" width="400" ></a>  
 Last Updated on 2/7/2024, 1:00:05 AM</p>
 <!--END_SECTION:lapras-card-->
+
+## 最近のアウトプットなど
+* [1年半で1人から14人の開発組織へー即戦力を惹きつけるダイレクトリクルーティングの裏側](https://materials.8card.net/eight-career/reports/20230511-doctormate/)
+* [楽しんで仕事をするということ](https://note.com/eno_motty/n/n6991cfc4dc38) → ドクターメイトのアドベントカレンダー
+* [中央区Tech](https://chuo-tech.connpass.com/) 主催
 
 ## 働く時間
 
@@ -68,6 +71,9 @@ Last Updated on 2/7/2024, 1:00:05 AM</p>
 ## 上記レーダーチャートの意味
 おまけ。
 
+#### Status
+![my_chart](./images/chart.png)
+
 見る人が見れば分かると思いますが、「JOJOの奇妙な冒険」シリーズが大好きです。
 スタンド名は私が埼玉西武ライオンズ好きなところから来ています。
 
@@ -75,7 +81,7 @@ Last Updated on 2/7/2024, 1:00:05 AM</p>
 
 | 項目    | 値 | 説明                                                                           |
 | ----- | - | ---------------------------------------------------------------------------- |
-| 破壊力   | B | 筋トレしてます。キックボクシングを2023/1から初めて楽しんでいます。<br>同世代平均よりは引き締まった体であると自負しています。将来はジェイソン・ステイサムな体になりたいので到達したらAにします           |
+| 破壊力   | B | 筋トレしてます。キックボクシングを2023/1から楽しんでいます。<br>同世代平均よりは引き締まった体であると自負しています。将来はジェイソン・ステイサムな体になりたいので到達したらAにします           |
 | スピード  | A | 業務で求められる、アウトプットを出すのは割と早い方だと思います。フィードバックを受けながら精緻化するスタイルです。ちょっとしたプロトタイプとか技術検証などで成果を出すことが得意と思います。            |
 | 射程距離 | A | 電源とWi-Fiがある環境ならどこでも仕事できます。子供が長期休みの時は新潟県湯沢町で[ワーケーション](https://note.com/eno_motty/n/nfc4a7130d770)するのが最近のルーティンです |
 | 持続力   | D | 長時間労働は無理です。あと、週５連続では働けない体になってしまいました、、、                                       |
