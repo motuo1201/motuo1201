@@ -15,9 +15,10 @@ Last Updated on 2/15/2024, 1:01:59 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 最近のアウトプットなど
-* [1年半で1人から14人の開発組織へー即戦力を惹きつけるダイレクトリクルーティングの裏側](https://materials.8card.net/eight-career/reports/20230511-doctormate/)
-* [楽しんで仕事をするということ](https://note.com/eno_motty/n/n6991cfc4dc38) → ドクターメイトのアドベントカレンダー
-* [中央区Tech](https://chuo-tech.connpass.com/) 主催
+- [1年半で1人から14人の開発組織へー即戦力を惹きつけるダイレクトリクルーティングの裏側](https://materials.8card.net/eight-career/reports/20230511-doctormate/)
+- [楽しんで仕事をするということ](https://note.com/eno_motty/n/n6991cfc4dc38) → ドクターメイトのアドベントカレンダー
+- [中央区Tech](https://chuo-tech.connpass.com/) 主催
+    - [第一回イベントレポート](https://note.com/eno_motty/n/n62d041a645e5) 
 
 ## 働く時間
 
