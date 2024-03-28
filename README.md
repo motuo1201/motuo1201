@@ -18,7 +18,9 @@ Last Updated on 3/28/2024, 1:02:28 AM</p>
 - [1年半で1人から14人の開発組織へー即戦力を惹きつけるダイレクトリクルーティングの裏側](https://materials.8card.net/eight-career/reports/20230511-doctormate/)
 - [楽しんで仕事をするということ](https://note.com/eno_motty/n/n6991cfc4dc38) → ドクターメイトのアドベントカレンダー
 - [中央区Tech](https://chuo-tech.connpass.com/) 主催
-    - [第一回イベントレポート](https://note.com/eno_motty/n/n62d041a645e5) 
+    - [第一回イベントレポート](https://note.com/eno_motty/n/n62d041a645e5)
+- ドクターメイトの技術選定について話す<br>
+ [!['ドクターメイトの技術選定について'](https://github.com/motuo1201/motuo1201/assets/29793341/88325e00-4c1c-46df-873e-3b867423de01)](https://youtu.be/yPR9szZNmMA)
 
 ## 働く時間
 
