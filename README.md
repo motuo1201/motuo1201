@@ -11,7 +11,7 @@ ref: https://note.com/yutabnbn/n/n345f5bd92f01
 ### Lapras Card
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/motuo" target="_blank" rel="noopener noreferrer"><img alt="motuoのLAPRASでのスコアは次の通りです: エンジニアリング: 3.59 / 5.0, ビジネス: 3.83 / 5.0, インフルエンス: 3.63 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.59&b=3.83&i=3.63&b1=%23020e27&b2=%238abbe5&i1=%2303102f&i2=%2377d0fd&l=ja" width="400" ></a>  
-Last Updated on 10/20/2024, 1:35:13 AM</p>
+Last Updated on 10/21/2024, 1:23:51 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ## 最近のアウトプットなど
